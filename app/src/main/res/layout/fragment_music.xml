@@ -6,9 +6,10 @@
     tools:context=".MusicFragment">
 
     <TextView
-    android:gravity="center"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:text="Music" />
+        android:id="@+id/textMusic"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Music" />
 
 </FrameLayout>
